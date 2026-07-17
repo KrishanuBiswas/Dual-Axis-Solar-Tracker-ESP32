@@ -264,5 +264,5 @@ If you found this project useful:
 ---
 
 <p align="center">
-Made with ❤️ using ESP32 and Arduino
+Made with ❤️ using ESP32 
 </p>
