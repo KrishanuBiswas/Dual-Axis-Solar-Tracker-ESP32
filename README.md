@@ -7,7 +7,7 @@
 
 ![Flowchart](flowchart/Software_Flowchart.jpeg)
 <p align="center">
-  <img src="images/Complete_Project.jpg" alt="Dual Axis Solar Tracker" width="700">
+  <img src="images/Complete_Project.jpeg" alt="Dual Axis Solar Tracker" width="700">
 </p>
 
 <p align="center">
