@@ -1,5 +1,13 @@
 # ☀️ Dual-Axis Solar Tracker using ESP32
+# Dual-Axis Solar Tracker using ESP32
+![Project](images/Complete_Project.jpg)
 
+## Circuit Diagram
+
+![Circuit](circuit_diagram/Connection_Diagram.jpeg)
+## Software Flowchart
+
+![Flowchart](flowchart/Software_Flowchart.jpeg)
 <p align="center">
   <img src="images/Complete_Project.jpg" alt="Dual Axis Solar Tracker" width="700">
 </p>
