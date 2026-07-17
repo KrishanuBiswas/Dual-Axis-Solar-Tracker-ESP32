@@ -1,6 +1,4 @@
 # ☀️ Dual-Axis Solar Tracker using ESP32
-# Dual-Axis Solar Tracker using ESP32
-![Project](images/Complete_Project.jpg)
 
 ## Circuit Diagram
 
