@@ -213,7 +213,7 @@ Place your project demonstration video in the `video` folder or provide a YouTub
 Example:
 
 ```
-https://youtu.be/your-video-link](https://youtu.be/_2enJQ5KMcw
+[https://youtu.be/your-video-link](https://youtu.be/_2enJQ5KMcw](https://youtu.be/_2enJQ5KMcw)
 ```
 
 ---
